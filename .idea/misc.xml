@@ -3,7 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/user/AndroidStudioProjects/TodoApp/app/src/main/res/layout/activity_main.xml" value="0.16799999999999998" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/TodoApp/app/src/main/res/drawable/rounded_dialog_box.xml" value="0.19907407407407407" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/TodoApp/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/TodoApp/app/src/main/res/layout/activity_update_record.xml" value="0.2359375" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/TodoApp/app/src/main/res/layout/row_item.xml" value="0.25" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/TodoApp/app/src/main/res/layout/update_dialog_box.xml" value="0.2" />
       </map>
     </option>
   </component>
