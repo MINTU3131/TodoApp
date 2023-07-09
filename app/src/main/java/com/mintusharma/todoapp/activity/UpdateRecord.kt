@@ -1,4 +1,4 @@
-package com.mintusharma.todoapp
+package com.mintusharma.todoapp.activity
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
@@ -6,8 +6,8 @@ import android.os.Bundle
 import android.text.Editable
 import android.widget.Toast
 import com.google.firebase.database.FirebaseDatabase
-import com.mintusharma.todoapp.databinding.ActivityMainBinding
 import com.mintusharma.todoapp.databinding.ActivityUpdateRecordBinding
+import com.mintusharma.todoapp.models.TodoItem
 
 class UpdateRecord : AppCompatActivity() {
 

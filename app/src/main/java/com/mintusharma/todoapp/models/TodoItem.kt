@@ -1,4 +1,4 @@
-package com.mintusharma.todoapp
+package com.mintusharma.todoapp.models
 
 import com.google.android.gms.common.util.CollectionUtils.mapOf
 import java.util.*

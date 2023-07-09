@@ -3,7 +3,7 @@ package com.mintusharma.todoapp.adapter
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import com.mintusharma.todoapp.TodoItem
+import com.mintusharma.todoapp.models.TodoItem
 import com.mintusharma.todoapp.databinding.RowItemBinding
 import java.util.*
 
