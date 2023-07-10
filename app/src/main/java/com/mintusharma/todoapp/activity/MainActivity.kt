@@ -32,11 +32,11 @@ class MainActivity : AppCompatActivity() {
             insertData()
         }
 
-        getEmployeesData()
+        getTodoData()
 
     }
 
-    private fun getEmployeesData() {
+    private fun getTodoData() {
 
         binding.progressCircular.visibility = View.VISIBLE
 
